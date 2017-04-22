@@ -10,7 +10,7 @@ var myOptions = {
 myPlayer = amp("azuremediaplayer", myOptions);
 myPlayer.src([
         {
-                "src": "http://mobicom.streaming.mediaservices.windows.net/356e806d-7ff9-4b0e-b8eb-cc45c5a70739/ec109c84-9c31-4cbc-a016-a65d9893aead.ism/manifest",
+                "src": "http://mobicom.streaming.mediaservices.windows.net/93cc415a-41fb-43e7-853b-129341508a55/099c7357-ce27-4ed7-98e2-111a1ba455c4.ism/manifest",
                 "type": "application/vnd.ms-sstr+xml"
         }
 ]);
